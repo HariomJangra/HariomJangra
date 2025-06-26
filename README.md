@@ -20,6 +20,12 @@
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/swift-colored.svg" alt="Swift" />
 </picture></a> &nbsp;
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/java-colored.svg" alt="Java" />
+</picture></a> &nbsp;
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><picture>
+<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/dart-colored.svg" alt="Dart" />
+</picture></a> &nbsp;
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/flutter-colored.svg" alt="Flutter" />
 </picture></a> &nbsp;

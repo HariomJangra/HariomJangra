@@ -96,7 +96,7 @@ me.say_hi()
 ## 🎯 Current Focus
 
 - 🔬 Researching **mixture of experts** architectures for efficient LLMs
-- 🚀 Building an **Agentic Browser** which runs with Offline LLM Inferencing  
+- 🚀 Building an **Agentic Browser** powered by Offline LLM Inference 
 - 📚 Exploring **retrieval-augmented generation**
 
 ## 📫 Let's Connect!

@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Large+Language+Model+Developer;AI+%26+Machine+Learning+Enthusiast;Building+the+Future+with+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=100&color=89B4FA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Large+Language+Model+Developer;AI-Powered+Software+Engineering;Building+the+Future+with+AI)](https://git.io/typing-svg)
 
 
 

@@ -1,77 +1,125 @@
-# Hello 👋 I am Hariom Jangra
 
-## Software Engineer
-
-- 🌍 I'm from India
-- 📫 Reach me at [hello.hariomjangra@gmail.com](mailto:hello.hariomjangra@gmail.com)
-- 👨‍💻 Check out my portfolio at [MyPortfolio](http://hariomjangra.framer.website)
-- 🔭 I'm currently working on [Local Mind](hariomjangra.framer.website/projects/local-mind)
-- 🌱 I'm currently learning Large Language Modeling
-
-
-### Skills
-
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/cplusplus-colored.svg" alt="C++" />
-</picture></a> &nbsp;
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" />
-</picture></a> &nbsp;
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/swift-colored.svg" alt="Swift" />
-</picture></a> &nbsp;
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/java-colored.svg" alt="Java" />
-</picture></a> &nbsp;
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/dart-colored.svg" alt="Dart" />
-</picture></a> &nbsp;
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/flutter-colored.svg" alt="Flutter" />
-</picture></a> &nbsp;
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" />
-</picture></a> &nbsp;
-
-### Social
-
-<a href="https://www.github.com/HariomJangra" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img height="30" width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" title="GitHub" />
-  </picture>
-</a>&nbsp;
-
-<a href="https://www.linkedin.com/in/hariom-jangra" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img height="30" width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" title="LinkedIn" />
-  </picture>
-</a>&nbsp;
-
-<a href="https://www.medium.com/@hariomjangra" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
-    <img height="30" width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" alt="Medium" title="Medium" />
-  </picture>
-</a>&nbsp;
-
-<a href="https://discord.com/users/hariomjangra" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-    <img height="30" width="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" title="Discord" />
-  </picture>
-</a>
+# Hey! I'm Hariom Jangra — I build, break, and rebuild things better.
 
 
 
-<br/>
-<a href="http://www.github.com/HariomJangra"><img
-src="https://streak-stats.demolab.com/?user=HariomJangra&stroke=3382ed&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a> <br/>
-<br/>
-<a href="https://github.com/HariomJangra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomJangra&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
+
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Large+Language+Model+Developer;AI+%26+Machine+Learning+Enthusiast;Building+the+Future+with+AI)](https://git.io/typing-svg)
+
+
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b)](https://hariomjangra.dev)
+
+
+</div>
+
+---
+
+
+## 🎯 About Me: AI Research & Software Development
+
+> Passionate **LLM Developer & Software Engineer** building intelligent systems that merge human creativity with powerful AI and real-world software.
+
+I specialize in developing, fine-tuning, and deploying state-of-the-art language models and AI Software. From concept to production, I transform complex AI research into practical applications that solve real-world problems.
+
+<div align="center">
+  
+
+</div>
+
+
+## ⚡ What I Do: AI Research & Building User-Focused AI Software
+
+```python
+class AI_Engineer:
+    def __init__(self):
+        self.name = "Hariom Jangra"
+        self.role = "LLM Developer & Software Engineer"
+        self.country = "INDIA"
+        self.language_spoken = ["English", "Hindi"]
+        self.hobbies = ["Chess", "Cricket"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build amazing AI together")
+
+me = LLMDeveloper()
+me.say_hi()
+```
+
+### 🔥 Core Expertise
+
+- **🧠 Model Architecture**: Transformer models, attention mechanisms, custom architectures
+- **⚡ Fine-tuning**: LoRA, QLoRA, full parameter fine-tuning, RLHF
+- **📦 App Integration**: Flutter, React Native, on-device inference
+- **🛠️ Frameworks**: PyTorch, Transformers, LangChain, Flutter
+- **💬 Applications**: Chatbots, RAG systems, code generation, Mobile Inferencing
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+## 🎯 Current Focus
+
+- 🔬 Researching **mixture of experts** architectures for efficient LLMs
+- 🚀 Building an **Agentic Browser** which runs with Offline LLM Inferencing  
+- 📚 Exploring **retrieval-augmented generation**
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariom-jangra/)
+[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/HariomJangra404)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.hariomjangra@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hariomjangra.dev/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+*"The best way to predict the future is to create it."* - Peter Drucker
+
+**⭐ Star my repositories if you find them helpful!**
+
 

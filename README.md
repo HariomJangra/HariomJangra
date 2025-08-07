@@ -11,7 +11,7 @@
 
 
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b)](https://hariomjangra.dev)
+[![Portfolio](https://img.shields.io/badge/_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b)](https://hariomjangra.dev)
 
 
 </div>

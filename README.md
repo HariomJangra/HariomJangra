@@ -54,7 +54,6 @@ me.say_hi()
 - **🧠 Model Architecture**: Transformer models, attention mechanisms, custom architectures
 - **⚡ Fine-tuning**: LoRA, QLoRA, full parameter fine-tuning, RLHF
 - **📦 App Integration**: Flutter, React Native, on-device inference
-- **🛠️ Frameworks**: PyTorch, Transformers, LangChain, Flutter
 - **💬 Applications**: Chatbots, RAG systems, code generation, Mobile Inferencing
 
 ## 🛠️ Tech Stack

@@ -7,11 +7,11 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=100&color=89B4FA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Large+Language+Model+Developer;AI-Powered+Software+Engineering;Building+the+Future+with+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Researcher+%26+Engineer;Building+Next-Gen+AI+Models;Crafting+Intelligent+Products)](https://git.io/typing-svg)
 
 
 
-[![Portfolio](https://img.shields.io/badge/_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b)](https://hariomjangra.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b)](https://hariomjangra.dev)
 
 
 </div>
@@ -19,11 +19,11 @@
 ---
 
 
-## 🎯 About Me: AI Research & Software Development
+## 🎯 About Me
 
-> Passionate **LLM Developer & Software Engineer** building intelligent systems that merge human creativity with powerful AI and real-world software.
+> AI Researcher & Engineer pushing the boundaries of artificial intelligence — from groundbreaking research to production-ready products.
 
-I specialize in developing, fine-tuning, and deploying state-of-the-art language models and AI Software. From concept to production, I transform complex AI research into practical applications that solve real-world problems.
+I work at the intersection of **AI research** and **product development**. My expertise spans from training and fine-tuning cutting-edge AI models to building intelligent systems that deliver real-world value.
 
 <div align="center">
   
@@ -31,30 +31,40 @@ I specialize in developing, fine-tuning, and deploying state-of-the-art language
 </div>
 
 
-## ⚡ What I Do: AI Research & Building User-Focused AI Software
+## ⚡ What I Do
 
 ```python
-class AI_Engineer:
+class AI_Researcher_Engineer:
     def __init__(self):
         self.name = "Hariom Jangra"
-        self.role = "LLM Developer & Software Engineer"
-        self.country = "INDIA"
-        self.language_spoken = ["English", "Hindi"]
-        self.hobbies = ["Chess", "Cricket"]
+        self.expertise = [
+            "AI Research & Model Development",
+            "Intelligent Product Engineering"
+        ]
     
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build amazing AI together")
+    def core_focus(self):
+        return {
+            "research": ["LLMs", "Diffusion Models", "World Models"],
+            "products": ["AI-Powered Applications", "Intelligent Systems"]
+        }
 
-me = LLMDeveloper()
-me.say_hi()
+me = AI_Researcher_Engineer()
+print("Building the future of AI, one model at a time 🚀")
 ```
 
 ### 🔥 Core Expertise
 
-- **🧠 Model Architecture**: Transformer models, attention mechanisms, custom architectures
-- **⚡ Fine-tuning**: LoRA, QLoRA, full parameter fine-tuning, RLHF
-- **📦 App Integration**: Flutter, React Native, on-device inference
-- **💬 Applications**: Chatbots, RAG systems, code generation, Mobile Inferencing
+**🔬 AI Research & Development**
+- Large Language Models (LLMs) - Architecture, training, and optimization
+- Diffusion Models - Generative AI and image synthesis
+- World Models - Predictive modeling and environment understanding
+- Custom model architectures and novel AI approaches
+
+**🚀 AI Product Engineering**
+- Building production-ready AI applications and platforms
+- End-to-end product development with AI at the core
+- Cross-platform deployment and optimization
+- Integrating AI capabilities into user-facing products
 
 ## 🛠️ Tech Stack
 
@@ -83,21 +93,20 @@ me.say_hi()
 
 </div>
 
-
+## 📈 GitHub Stats
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomJangra&layout=compact&langs_count=8&theme=tokyonight"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
 
-## 🎯 Current Focus
-
-- 🔬 Researching **mixture of experts** architectures for efficient LLMs
-- 🚀 Building an **Agentic Browser** powered by Offline LLM Inference 
-- 📚 Exploring **retrieval-augmented generation**
+</div>
 
 ## 📫 Let's Connect!
 
@@ -114,8 +123,7 @@ me.say_hi()
 
 <div align="center">
 
-### 💭 Quote of the Day
-*"The best way to predict the future is to create it."* - Peter Drucker
+### 💭 "Research opens doors. Products walk through them."
 
 **⭐ Star my repositories if you find them helpful!**
 

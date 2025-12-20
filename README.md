@@ -7,11 +7,11 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Researcher+%26+Engineer;Building+Next-Gen+AI+Models;Crafting+Intelligent+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Developer+%26+Engineer;Building+AI+Models+%26+Products;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
 
 
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b)](https://hariomjangra.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e293b)](https://hariomjangra.dev)
 
 
 </div>
@@ -19,11 +19,11 @@
 ---
 
 
-## 🎯 About Me
+## About Me
 
-> AI Researcher & Engineer pushing the boundaries of artificial intelligence — from groundbreaking research to production-ready products.
+> Passionate about AI — building models and turning them into real products.
 
-I work at the intersection of **AI research** and **product development**. My expertise spans from training and fine-tuning cutting-edge AI models to building intelligent systems that deliver real-world value.
+I love working with AI models like **LLMs**, **Diffusion Models**, and **World Models**. I also enjoy building applications and products that put these AI capabilities to use.
 
 <div align="center">
   
@@ -31,42 +31,39 @@ I work at the intersection of **AI research** and **product development**. My ex
 </div>
 
 
-## ⚡ What I Do
+## What I Do
 
 ```python
-class AI_Researcher_Engineer:
+class HariomJangra:
     def __init__(self):
         self.name = "Hariom Jangra"
-        self.expertise = [
-            "AI Research & Model Development",
-            "Intelligent Product Engineering"
-        ]
+        self.interests = ["AI Models", "Building Products"]
     
-    def core_focus(self):
+    def what_i_work_on(self):
         return {
-            "research": ["LLMs", "Diffusion Models", "World Models"],
-            "products": ["AI-Powered Applications", "Intelligent Systems"]
+            "ai_models": ["LLMs", "Diffusion Models", "World Models"],
+            "products": ["AI Applications", "Real-world Tools"]
         }
 
-me = AI_Researcher_Engineer()
-print("Building the future of AI, one model at a time 🚀")
+me = HariomJangra()
+print("Let's build something cool!")
 ```
 
-### 🔥 Core Expertise
+### What I Work On
 
-**🔬 AI Research & Development**
-- Large Language Models (LLMs) - Architecture, training, and optimization
-- Diffusion Models - Generative AI and image synthesis
-- World Models - Predictive modeling and environment understanding
-- Custom model architectures and novel AI approaches
+**AI Models**
+- Large Language Models (LLMs)
+- Diffusion Models for generative AI
+- World Models and predictive systems
+- Training and fine-tuning models
 
-**🚀 AI Product Engineering**
-- Building production-ready AI applications and platforms
-- End-to-end product development with AI at the core
-- Cross-platform deployment and optimization
-- Integrating AI capabilities into user-facing products
+**Building Products**
+- Creating AI-powered applications
+- Building tools and platforms
+- Making AI accessible and useful
+- Bringing ideas to life
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -82,7 +79,7 @@ print("Building the future of AI, one model at a time 🚀")
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000000)
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -93,7 +90,7 @@ print("Building the future of AI, one model at a time 🚀")
 
 </div>
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -108,7 +105,7 @@ print("Building the future of AI, one model at a time 🚀")
 
 </div>
 
-## 📫 Let's Connect!
+## Let's Connect
 
 <div align="center">
 
@@ -123,8 +120,8 @@ print("Building the future of AI, one model at a time 🚀")
 
 <div align="center">
 
-### 💭 "Research opens doors. Products walk through them."
+### "Keep learning, keep building."
 
-**⭐ Star my repositories if you find them helpful!**
+**Star my repositories if you find them helpful!**
 
 

@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+Developer+%26+Engineer;Building+AI+Models+%26+Products;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI+ML+Enthusiast;Building+AI+Models+%26+Products;Turning+Ideas+into+Reality)
 
 
 
@@ -21,7 +21,7 @@
 
 ## About Me
 
-> Passionate about AI — building models and turning them into real products.
+> Passionate about AI — building models and turning them into products.
 
 I love working with AI models like **LLMs**, **Diffusion Models**, and **World Models**. I also enjoy building applications and products that put these AI capabilities to use.
 
@@ -60,7 +60,6 @@ print("Let's build something cool!")
 **Building Products**
 - Creating AI-powered applications
 - Building tools and platforms
-- Making AI accessible and useful
 - Bringing ideas to life
 
 ## Tech Stack
@@ -71,7 +70,6 @@ print("Let's build something cool!")
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -81,9 +79,7 @@ print("Let's build something cool!")
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 </div>
 
